@@ -1,0 +1,29 @@
+.panda-card {
+  border: 0;
+}
+.panda-card-footer {
+  border: 0;
+  background-color: white;
+}
+.categories img {
+  width: 100px;
+}
+
+.categories {
+  margin: 20% 0;
+}
+.card-paragraph {
+  text-align: justify;
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+.carousel-background {
+  background-color: rgba(253, 231, 231, 0.897);
+}
+.name {
+  text-decoration: none;
+  color: rgb(199, 199, 199);
+}
+.name:hover {
+  color: red;
+}
